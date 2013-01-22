@@ -4,7 +4,7 @@
 	include('includes/haut.inc.php');
 	include('includes/notifications.inc.php');
 	include('includes/fonctions.inc.php'); 
-	
+	   
 	$connecte = false; // a modifier !!!! ////
 	$smarty = new Smarty();
 	$articles=array();
